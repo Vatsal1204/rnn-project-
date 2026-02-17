@@ -1,0 +1,901 @@
+text,emotion
+I feel amazing today.,happy
+I feel amazing yesterday.,happy
+I feel amazing this morning.,happy
+I feel amazing last night.,happy
+I feel amazing recently.,happy
+I am very joyful today.,happy
+I am very joyful yesterday.,happy
+I am very joyful this morning.,happy
+I am very joyful last night.,happy
+I am very joyful recently.,happy
+I am extremely happy today.,happy
+I am extremely happy yesterday.,happy
+I am extremely happy this morning.,happy
+I am extremely happy last night.,happy
+I am extremely happy recently.,happy
+I feel positive today.,happy
+I feel positive yesterday.,happy
+I feel positive this morning.,happy
+I feel positive last night.,happy
+I feel positive recently.,happy
+I am proud today.,happy
+I am proud yesterday.,happy
+I am proud this morning.,happy
+I am proud last night.,happy
+I am proud recently.,happy
+My friend feel amazing today.,happy
+My friend feel amazing yesterday.,happy
+My friend feel amazing this morning.,happy
+My friend feel amazing last night.,happy
+My friend feel amazing recently.,happy
+My friend am very joyful today.,happy
+My friend am very joyful yesterday.,happy
+My friend am very joyful this morning.,happy
+My friend am very joyful last night.,happy
+My friend am very joyful recently.,happy
+My friend am extremely happy today.,happy
+My friend am extremely happy yesterday.,happy
+My friend am extremely happy this morning.,happy
+My friend am extremely happy last night.,happy
+My friend am extremely happy recently.,happy
+My friend feel positive today.,happy
+My friend feel positive yesterday.,happy
+My friend feel positive this morning.,happy
+My friend feel positive last night.,happy
+My friend feel positive recently.,happy
+My friend am proud today.,happy
+My friend am proud yesterday.,happy
+My friend am proud this morning.,happy
+My friend am proud last night.,happy
+My friend am proud recently.,happy
+My brother feel amazing today.,happy
+My brother feel amazing yesterday.,happy
+My brother feel amazing this morning.,happy
+My brother feel amazing last night.,happy
+My brother feel amazing recently.,happy
+My brother am very joyful today.,happy
+My brother am very joyful yesterday.,happy
+My brother am very joyful this morning.,happy
+My brother am very joyful last night.,happy
+My brother am very joyful recently.,happy
+My brother am extremely happy today.,happy
+My brother am extremely happy yesterday.,happy
+My brother am extremely happy this morning.,happy
+My brother am extremely happy last night.,happy
+My brother am extremely happy recently.,happy
+My brother feel positive today.,happy
+My brother feel positive yesterday.,happy
+My brother feel positive this morning.,happy
+My brother feel positive last night.,happy
+My brother feel positive recently.,happy
+My brother am proud today.,happy
+My brother am proud yesterday.,happy
+My brother am proud this morning.,happy
+My brother am proud last night.,happy
+My brother am proud recently.,happy
+My sister feel amazing today.,happy
+My sister feel amazing yesterday.,happy
+My sister feel amazing this morning.,happy
+My sister feel amazing last night.,happy
+My sister feel amazing recently.,happy
+My sister am very joyful today.,happy
+My sister am very joyful yesterday.,happy
+My sister am very joyful this morning.,happy
+My sister am very joyful last night.,happy
+My sister am very joyful recently.,happy
+My sister am extremely happy today.,happy
+My sister am extremely happy yesterday.,happy
+My sister am extremely happy this morning.,happy
+My sister am extremely happy last night.,happy
+My sister am extremely happy recently.,happy
+My sister feel positive today.,happy
+My sister feel positive yesterday.,happy
+My sister feel positive this morning.,happy
+My sister feel positive last night.,happy
+My sister feel positive recently.,happy
+My sister am proud today.,happy
+My sister am proud yesterday.,happy
+My sister am proud this morning.,happy
+My sister am proud last night.,happy
+My sister am proud recently.,happy
+We feel amazing today.,happy
+We feel amazing yesterday.,happy
+We feel amazing this morning.,happy
+We feel amazing last night.,happy
+We feel amazing recently.,happy
+We am very joyful today.,happy
+We am very joyful yesterday.,happy
+We am very joyful this morning.,happy
+We am very joyful last night.,happy
+We am very joyful recently.,happy
+We am extremely happy today.,happy
+We am extremely happy yesterday.,happy
+We am extremely happy this morning.,happy
+We am extremely happy last night.,happy
+We am extremely happy recently.,happy
+We feel positive today.,happy
+We feel positive yesterday.,happy
+We feel positive this morning.,happy
+We feel positive last night.,happy
+We feel positive recently.,happy
+We am proud today.,happy
+We am proud yesterday.,happy
+We am proud this morning.,happy
+We am proud last night.,happy
+We am proud recently.,happy
+They feel amazing today.,happy
+They feel amazing yesterday.,happy
+They feel amazing this morning.,happy
+They feel amazing last night.,happy
+They feel amazing recently.,happy
+They am very joyful today.,happy
+They am very joyful yesterday.,happy
+They am very joyful this morning.,happy
+They am very joyful last night.,happy
+They am very joyful recently.,happy
+They am extremely happy today.,happy
+They am extremely happy yesterday.,happy
+They am extremely happy this morning.,happy
+They am extremely happy last night.,happy
+They am extremely happy recently.,happy
+They feel positive today.,happy
+They feel positive yesterday.,happy
+They feel positive this morning.,happy
+They feel positive last night.,happy
+They feel positive recently.,happy
+They am proud today.,happy
+They am proud yesterday.,happy
+They am proud this morning.,happy
+They am proud last night.,happy
+They am proud recently.,happy
+I feel broken today.,sad
+I feel broken yesterday.,sad
+I feel broken this morning.,sad
+I feel broken last night.,sad
+I feel broken recently.,sad
+I am very low today.,sad
+I am very low yesterday.,sad
+I am very low this morning.,sad
+I am very low last night.,sad
+I am very low recently.,sad
+I feel empty today.,sad
+I feel empty yesterday.,sad
+I feel empty this morning.,sad
+I feel empty last night.,sad
+I feel empty recently.,sad
+I am disappointed today.,sad
+I am disappointed yesterday.,sad
+I am disappointed this morning.,sad
+I am disappointed last night.,sad
+I am disappointed recently.,sad
+I feel lonely today.,sad
+I feel lonely yesterday.,sad
+I feel lonely this morning.,sad
+I feel lonely last night.,sad
+I feel lonely recently.,sad
+My friend feel broken today.,sad
+My friend feel broken yesterday.,sad
+My friend feel broken this morning.,sad
+My friend feel broken last night.,sad
+My friend feel broken recently.,sad
+My friend am very low today.,sad
+My friend am very low yesterday.,sad
+My friend am very low this morning.,sad
+My friend am very low last night.,sad
+My friend am very low recently.,sad
+My friend feel empty today.,sad
+My friend feel empty yesterday.,sad
+My friend feel empty this morning.,sad
+My friend feel empty last night.,sad
+My friend feel empty recently.,sad
+My friend am disappointed today.,sad
+My friend am disappointed yesterday.,sad
+My friend am disappointed this morning.,sad
+My friend am disappointed last night.,sad
+My friend am disappointed recently.,sad
+My friend feel lonely today.,sad
+My friend feel lonely yesterday.,sad
+My friend feel lonely this morning.,sad
+My friend feel lonely last night.,sad
+My friend feel lonely recently.,sad
+My brother feel broken today.,sad
+My brother feel broken yesterday.,sad
+My brother feel broken this morning.,sad
+My brother feel broken last night.,sad
+My brother feel broken recently.,sad
+My brother am very low today.,sad
+My brother am very low yesterday.,sad
+My brother am very low this morning.,sad
+My brother am very low last night.,sad
+My brother am very low recently.,sad
+My brother feel empty today.,sad
+My brother feel empty yesterday.,sad
+My brother feel empty this morning.,sad
+My brother feel empty last night.,sad
+My brother feel empty recently.,sad
+My brother am disappointed today.,sad
+My brother am disappointed yesterday.,sad
+My brother am disappointed this morning.,sad
+My brother am disappointed last night.,sad
+My brother am disappointed recently.,sad
+My brother feel lonely today.,sad
+My brother feel lonely yesterday.,sad
+My brother feel lonely this morning.,sad
+My brother feel lonely last night.,sad
+My brother feel lonely recently.,sad
+My sister feel broken today.,sad
+My sister feel broken yesterday.,sad
+My sister feel broken this morning.,sad
+My sister feel broken last night.,sad
+My sister feel broken recently.,sad
+My sister am very low today.,sad
+My sister am very low yesterday.,sad
+My sister am very low this morning.,sad
+My sister am very low last night.,sad
+My sister am very low recently.,sad
+My sister feel empty today.,sad
+My sister feel empty yesterday.,sad
+My sister feel empty this morning.,sad
+My sister feel empty last night.,sad
+My sister feel empty recently.,sad
+My sister am disappointed today.,sad
+My sister am disappointed yesterday.,sad
+My sister am disappointed this morning.,sad
+My sister am disappointed last night.,sad
+My sister am disappointed recently.,sad
+My sister feel lonely today.,sad
+My sister feel lonely yesterday.,sad
+My sister feel lonely this morning.,sad
+My sister feel lonely last night.,sad
+My sister feel lonely recently.,sad
+We feel broken today.,sad
+We feel broken yesterday.,sad
+We feel broken this morning.,sad
+We feel broken last night.,sad
+We feel broken recently.,sad
+We am very low today.,sad
+We am very low yesterday.,sad
+We am very low this morning.,sad
+We am very low last night.,sad
+We am very low recently.,sad
+We feel empty today.,sad
+We feel empty yesterday.,sad
+We feel empty this morning.,sad
+We feel empty last night.,sad
+We feel empty recently.,sad
+We am disappointed today.,sad
+We am disappointed yesterday.,sad
+We am disappointed this morning.,sad
+We am disappointed last night.,sad
+We am disappointed recently.,sad
+We feel lonely today.,sad
+We feel lonely yesterday.,sad
+We feel lonely this morning.,sad
+We feel lonely last night.,sad
+We feel lonely recently.,sad
+They feel broken today.,sad
+They feel broken yesterday.,sad
+They feel broken this morning.,sad
+They feel broken last night.,sad
+They feel broken recently.,sad
+They am very low today.,sad
+They am very low yesterday.,sad
+They am very low this morning.,sad
+They am very low last night.,sad
+They am very low recently.,sad
+They feel empty today.,sad
+They feel empty yesterday.,sad
+They feel empty this morning.,sad
+They feel empty last night.,sad
+They feel empty recently.,sad
+They am disappointed today.,sad
+They am disappointed yesterday.,sad
+They am disappointed this morning.,sad
+They am disappointed last night.,sad
+They am disappointed recently.,sad
+They feel lonely today.,sad
+They feel lonely yesterday.,sad
+They feel lonely this morning.,sad
+They feel lonely last night.,sad
+They feel lonely recently.,sad
+I am furious today.,angry
+I am furious yesterday.,angry
+I am furious this morning.,angry
+I am furious last night.,angry
+I am furious recently.,angry
+I feel irritated today.,angry
+I feel irritated yesterday.,angry
+I feel irritated this morning.,angry
+I feel irritated last night.,angry
+I feel irritated recently.,angry
+I am frustrated today.,angry
+I am frustrated yesterday.,angry
+I am frustrated this morning.,angry
+I am frustrated last night.,angry
+I am frustrated recently.,angry
+I am annoyed today.,angry
+I am annoyed yesterday.,angry
+I am annoyed this morning.,angry
+I am annoyed last night.,angry
+I am annoyed recently.,angry
+I feel rage today.,angry
+I feel rage yesterday.,angry
+I feel rage this morning.,angry
+I feel rage last night.,angry
+I feel rage recently.,angry
+My friend am furious today.,angry
+My friend am furious yesterday.,angry
+My friend am furious this morning.,angry
+My friend am furious last night.,angry
+My friend am furious recently.,angry
+My friend feel irritated today.,angry
+My friend feel irritated yesterday.,angry
+My friend feel irritated this morning.,angry
+My friend feel irritated last night.,angry
+My friend feel irritated recently.,angry
+My friend am frustrated today.,angry
+My friend am frustrated yesterday.,angry
+My friend am frustrated this morning.,angry
+My friend am frustrated last night.,angry
+My friend am frustrated recently.,angry
+My friend am annoyed today.,angry
+My friend am annoyed yesterday.,angry
+My friend am annoyed this morning.,angry
+My friend am annoyed last night.,angry
+My friend am annoyed recently.,angry
+My friend feel rage today.,angry
+My friend feel rage yesterday.,angry
+My friend feel rage this morning.,angry
+My friend feel rage last night.,angry
+My friend feel rage recently.,angry
+My brother am furious today.,angry
+My brother am furious yesterday.,angry
+My brother am furious this morning.,angry
+My brother am furious last night.,angry
+My brother am furious recently.,angry
+My brother feel irritated today.,angry
+My brother feel irritated yesterday.,angry
+My brother feel irritated this morning.,angry
+My brother feel irritated last night.,angry
+My brother feel irritated recently.,angry
+My brother am frustrated today.,angry
+My brother am frustrated yesterday.,angry
+My brother am frustrated this morning.,angry
+My brother am frustrated last night.,angry
+My brother am frustrated recently.,angry
+My brother am annoyed today.,angry
+My brother am annoyed yesterday.,angry
+My brother am annoyed this morning.,angry
+My brother am annoyed last night.,angry
+My brother am annoyed recently.,angry
+My brother feel rage today.,angry
+My brother feel rage yesterday.,angry
+My brother feel rage this morning.,angry
+My brother feel rage last night.,angry
+My brother feel rage recently.,angry
+My sister am furious today.,angry
+My sister am furious yesterday.,angry
+My sister am furious this morning.,angry
+My sister am furious last night.,angry
+My sister am furious recently.,angry
+My sister feel irritated today.,angry
+My sister feel irritated yesterday.,angry
+My sister feel irritated this morning.,angry
+My sister feel irritated last night.,angry
+My sister feel irritated recently.,angry
+My sister am frustrated today.,angry
+My sister am frustrated yesterday.,angry
+My sister am frustrated this morning.,angry
+My sister am frustrated last night.,angry
+My sister am frustrated recently.,angry
+My sister am annoyed today.,angry
+My sister am annoyed yesterday.,angry
+My sister am annoyed this morning.,angry
+My sister am annoyed last night.,angry
+My sister am annoyed recently.,angry
+My sister feel rage today.,angry
+My sister feel rage yesterday.,angry
+My sister feel rage this morning.,angry
+My sister feel rage last night.,angry
+My sister feel rage recently.,angry
+We am furious today.,angry
+We am furious yesterday.,angry
+We am furious this morning.,angry
+We am furious last night.,angry
+We am furious recently.,angry
+We feel irritated today.,angry
+We feel irritated yesterday.,angry
+We feel irritated this morning.,angry
+We feel irritated last night.,angry
+We feel irritated recently.,angry
+We am frustrated today.,angry
+We am frustrated yesterday.,angry
+We am frustrated this morning.,angry
+We am frustrated last night.,angry
+We am frustrated recently.,angry
+We am annoyed today.,angry
+We am annoyed yesterday.,angry
+We am annoyed this morning.,angry
+We am annoyed last night.,angry
+We am annoyed recently.,angry
+We feel rage today.,angry
+We feel rage yesterday.,angry
+We feel rage this morning.,angry
+We feel rage last night.,angry
+We feel rage recently.,angry
+They am furious today.,angry
+They am furious yesterday.,angry
+They am furious this morning.,angry
+They am furious last night.,angry
+They am furious recently.,angry
+They feel irritated today.,angry
+They feel irritated yesterday.,angry
+They feel irritated this morning.,angry
+They feel irritated last night.,angry
+They feel irritated recently.,angry
+They am frustrated today.,angry
+They am frustrated yesterday.,angry
+They am frustrated this morning.,angry
+They am frustrated last night.,angry
+They am frustrated recently.,angry
+They am annoyed today.,angry
+They am annoyed yesterday.,angry
+They am annoyed this morning.,angry
+They am annoyed last night.,angry
+They am annoyed recently.,angry
+They feel rage today.,angry
+They feel rage yesterday.,angry
+They feel rage this morning.,angry
+They feel rage last night.,angry
+They feel rage recently.,angry
+I feel love today.,romantic
+I feel love yesterday.,romantic
+I feel love this morning.,romantic
+I feel love last night.,romantic
+I feel love recently.,romantic
+I adore someone today.,romantic
+I adore someone yesterday.,romantic
+I adore someone this morning.,romantic
+I adore someone last night.,romantic
+I adore someone recently.,romantic
+I feel connected today.,romantic
+I feel connected yesterday.,romantic
+I feel connected this morning.,romantic
+I feel connected last night.,romantic
+I feel connected recently.,romantic
+I miss someone deeply today.,romantic
+I miss someone deeply yesterday.,romantic
+I miss someone deeply this morning.,romantic
+I miss someone deeply last night.,romantic
+I miss someone deeply recently.,romantic
+I feel attached today.,romantic
+I feel attached yesterday.,romantic
+I feel attached this morning.,romantic
+I feel attached last night.,romantic
+I feel attached recently.,romantic
+My friend feel love today.,romantic
+My friend feel love yesterday.,romantic
+My friend feel love this morning.,romantic
+My friend feel love last night.,romantic
+My friend feel love recently.,romantic
+My friend adore someone today.,romantic
+My friend adore someone yesterday.,romantic
+My friend adore someone this morning.,romantic
+My friend adore someone last night.,romantic
+My friend adore someone recently.,romantic
+My friend feel connected today.,romantic
+My friend feel connected yesterday.,romantic
+My friend feel connected this morning.,romantic
+My friend feel connected last night.,romantic
+My friend feel connected recently.,romantic
+My friend miss someone deeply today.,romantic
+My friend miss someone deeply yesterday.,romantic
+My friend miss someone deeply this morning.,romantic
+My friend miss someone deeply last night.,romantic
+My friend miss someone deeply recently.,romantic
+My friend feel attached today.,romantic
+My friend feel attached yesterday.,romantic
+My friend feel attached this morning.,romantic
+My friend feel attached last night.,romantic
+My friend feel attached recently.,romantic
+My brother feel love today.,romantic
+My brother feel love yesterday.,romantic
+My brother feel love this morning.,romantic
+My brother feel love last night.,romantic
+My brother feel love recently.,romantic
+My brother adore someone today.,romantic
+My brother adore someone yesterday.,romantic
+My brother adore someone this morning.,romantic
+My brother adore someone last night.,romantic
+My brother adore someone recently.,romantic
+My brother feel connected today.,romantic
+My brother feel connected yesterday.,romantic
+My brother feel connected this morning.,romantic
+My brother feel connected last night.,romantic
+My brother feel connected recently.,romantic
+My brother miss someone deeply today.,romantic
+My brother miss someone deeply yesterday.,romantic
+My brother miss someone deeply this morning.,romantic
+My brother miss someone deeply last night.,romantic
+My brother miss someone deeply recently.,romantic
+My brother feel attached today.,romantic
+My brother feel attached yesterday.,romantic
+My brother feel attached this morning.,romantic
+My brother feel attached last night.,romantic
+My brother feel attached recently.,romantic
+My sister feel love today.,romantic
+My sister feel love yesterday.,romantic
+My sister feel love this morning.,romantic
+My sister feel love last night.,romantic
+My sister feel love recently.,romantic
+My sister adore someone today.,romantic
+My sister adore someone yesterday.,romantic
+My sister adore someone this morning.,romantic
+My sister adore someone last night.,romantic
+My sister adore someone recently.,romantic
+My sister feel connected today.,romantic
+My sister feel connected yesterday.,romantic
+My sister feel connected this morning.,romantic
+My sister feel connected last night.,romantic
+My sister feel connected recently.,romantic
+My sister miss someone deeply today.,romantic
+My sister miss someone deeply yesterday.,romantic
+My sister miss someone deeply this morning.,romantic
+My sister miss someone deeply last night.,romantic
+My sister miss someone deeply recently.,romantic
+My sister feel attached today.,romantic
+My sister feel attached yesterday.,romantic
+My sister feel attached this morning.,romantic
+My sister feel attached last night.,romantic
+My sister feel attached recently.,romantic
+We feel love today.,romantic
+We feel love yesterday.,romantic
+We feel love this morning.,romantic
+We feel love last night.,romantic
+We feel love recently.,romantic
+We adore someone today.,romantic
+We adore someone yesterday.,romantic
+We adore someone this morning.,romantic
+We adore someone last night.,romantic
+We adore someone recently.,romantic
+We feel connected today.,romantic
+We feel connected yesterday.,romantic
+We feel connected this morning.,romantic
+We feel connected last night.,romantic
+We feel connected recently.,romantic
+We miss someone deeply today.,romantic
+We miss someone deeply yesterday.,romantic
+We miss someone deeply this morning.,romantic
+We miss someone deeply last night.,romantic
+We miss someone deeply recently.,romantic
+We feel attached today.,romantic
+We feel attached yesterday.,romantic
+We feel attached this morning.,romantic
+We feel attached last night.,romantic
+We feel attached recently.,romantic
+They feel love today.,romantic
+They feel love yesterday.,romantic
+They feel love this morning.,romantic
+They feel love last night.,romantic
+They feel love recently.,romantic
+They adore someone today.,romantic
+They adore someone yesterday.,romantic
+They adore someone this morning.,romantic
+They adore someone last night.,romantic
+They adore someone recently.,romantic
+They feel connected today.,romantic
+They feel connected yesterday.,romantic
+They feel connected this morning.,romantic
+They feel connected last night.,romantic
+They feel connected recently.,romantic
+They miss someone deeply today.,romantic
+They miss someone deeply yesterday.,romantic
+They miss someone deeply this morning.,romantic
+They miss someone deeply last night.,romantic
+They miss someone deeply recently.,romantic
+They feel attached today.,romantic
+They feel attached yesterday.,romantic
+They feel attached this morning.,romantic
+They feel attached last night.,romantic
+They feel attached recently.,romantic
+I feel overwhelmed today.,stressed
+I feel overwhelmed yesterday.,stressed
+I feel overwhelmed this morning.,stressed
+I feel overwhelmed last night.,stressed
+I feel overwhelmed recently.,stressed
+I am under pressure today.,stressed
+I am under pressure yesterday.,stressed
+I am under pressure this morning.,stressed
+I am under pressure last night.,stressed
+I am under pressure recently.,stressed
+I feel anxious today.,stressed
+I feel anxious yesterday.,stressed
+I feel anxious this morning.,stressed
+I feel anxious last night.,stressed
+I feel anxious recently.,stressed
+I am exhausted today.,stressed
+I am exhausted yesterday.,stressed
+I am exhausted this morning.,stressed
+I am exhausted last night.,stressed
+I am exhausted recently.,stressed
+I feel tense today.,stressed
+I feel tense yesterday.,stressed
+I feel tense this morning.,stressed
+I feel tense last night.,stressed
+I feel tense recently.,stressed
+My friend feel overwhelmed today.,stressed
+My friend feel overwhelmed yesterday.,stressed
+My friend feel overwhelmed this morning.,stressed
+My friend feel overwhelmed last night.,stressed
+My friend feel overwhelmed recently.,stressed
+My friend am under pressure today.,stressed
+My friend am under pressure yesterday.,stressed
+My friend am under pressure this morning.,stressed
+My friend am under pressure last night.,stressed
+My friend am under pressure recently.,stressed
+My friend feel anxious today.,stressed
+My friend feel anxious yesterday.,stressed
+My friend feel anxious this morning.,stressed
+My friend feel anxious last night.,stressed
+My friend feel anxious recently.,stressed
+My friend am exhausted today.,stressed
+My friend am exhausted yesterday.,stressed
+My friend am exhausted this morning.,stressed
+My friend am exhausted last night.,stressed
+My friend am exhausted recently.,stressed
+My friend feel tense today.,stressed
+My friend feel tense yesterday.,stressed
+My friend feel tense this morning.,stressed
+My friend feel tense last night.,stressed
+My friend feel tense recently.,stressed
+My brother feel overwhelmed today.,stressed
+My brother feel overwhelmed yesterday.,stressed
+My brother feel overwhelmed this morning.,stressed
+My brother feel overwhelmed last night.,stressed
+My brother feel overwhelmed recently.,stressed
+My brother am under pressure today.,stressed
+My brother am under pressure yesterday.,stressed
+My brother am under pressure this morning.,stressed
+My brother am under pressure last night.,stressed
+My brother am under pressure recently.,stressed
+My brother feel anxious today.,stressed
+My brother feel anxious yesterday.,stressed
+My brother feel anxious this morning.,stressed
+My brother feel anxious last night.,stressed
+My brother feel anxious recently.,stressed
+My brother am exhausted today.,stressed
+My brother am exhausted yesterday.,stressed
+My brother am exhausted this morning.,stressed
+My brother am exhausted last night.,stressed
+My brother am exhausted recently.,stressed
+My brother feel tense today.,stressed
+My brother feel tense yesterday.,stressed
+My brother feel tense this morning.,stressed
+My brother feel tense last night.,stressed
+My brother feel tense recently.,stressed
+My sister feel overwhelmed today.,stressed
+My sister feel overwhelmed yesterday.,stressed
+My sister feel overwhelmed this morning.,stressed
+My sister feel overwhelmed last night.,stressed
+My sister feel overwhelmed recently.,stressed
+My sister am under pressure today.,stressed
+My sister am under pressure yesterday.,stressed
+My sister am under pressure this morning.,stressed
+My sister am under pressure last night.,stressed
+My sister am under pressure recently.,stressed
+My sister feel anxious today.,stressed
+My sister feel anxious yesterday.,stressed
+My sister feel anxious this morning.,stressed
+My sister feel anxious last night.,stressed
+My sister feel anxious recently.,stressed
+My sister am exhausted today.,stressed
+My sister am exhausted yesterday.,stressed
+My sister am exhausted this morning.,stressed
+My sister am exhausted last night.,stressed
+My sister am exhausted recently.,stressed
+My sister feel tense today.,stressed
+My sister feel tense yesterday.,stressed
+My sister feel tense this morning.,stressed
+My sister feel tense last night.,stressed
+My sister feel tense recently.,stressed
+We feel overwhelmed today.,stressed
+We feel overwhelmed yesterday.,stressed
+We feel overwhelmed this morning.,stressed
+We feel overwhelmed last night.,stressed
+We feel overwhelmed recently.,stressed
+We am under pressure today.,stressed
+We am under pressure yesterday.,stressed
+We am under pressure this morning.,stressed
+We am under pressure last night.,stressed
+We am under pressure recently.,stressed
+We feel anxious today.,stressed
+We feel anxious yesterday.,stressed
+We feel anxious this morning.,stressed
+We feel anxious last night.,stressed
+We feel anxious recently.,stressed
+We am exhausted today.,stressed
+We am exhausted yesterday.,stressed
+We am exhausted this morning.,stressed
+We am exhausted last night.,stressed
+We am exhausted recently.,stressed
+We feel tense today.,stressed
+We feel tense yesterday.,stressed
+We feel tense this morning.,stressed
+We feel tense last night.,stressed
+We feel tense recently.,stressed
+They feel overwhelmed today.,stressed
+They feel overwhelmed yesterday.,stressed
+They feel overwhelmed this morning.,stressed
+They feel overwhelmed last night.,stressed
+They feel overwhelmed recently.,stressed
+They am under pressure today.,stressed
+They am under pressure yesterday.,stressed
+They am under pressure this morning.,stressed
+They am under pressure last night.,stressed
+They am under pressure recently.,stressed
+They feel anxious today.,stressed
+They feel anxious yesterday.,stressed
+They feel anxious this morning.,stressed
+They feel anxious last night.,stressed
+They feel anxious recently.,stressed
+They am exhausted today.,stressed
+They am exhausted yesterday.,stressed
+They am exhausted this morning.,stressed
+They am exhausted last night.,stressed
+They am exhausted recently.,stressed
+They feel tense today.,stressed
+They feel tense yesterday.,stressed
+They feel tense this morning.,stressed
+They feel tense last night.,stressed
+They feel tense recently.,stressed
+I feel normal today.,neutral
+I feel normal yesterday.,neutral
+I feel normal this morning.,neutral
+I feel normal last night.,neutral
+I feel normal recently.,neutral
+I am okay today.,neutral
+I am okay yesterday.,neutral
+I am okay this morning.,neutral
+I am okay last night.,neutral
+I am okay recently.,neutral
+I feel fine today.,neutral
+I feel fine yesterday.,neutral
+I feel fine this morning.,neutral
+I feel fine last night.,neutral
+I feel fine recently.,neutral
+I am just working today.,neutral
+I am just working yesterday.,neutral
+I am just working this morning.,neutral
+I am just working last night.,neutral
+I am just working recently.,neutral
+I feel regular today.,neutral
+I feel regular yesterday.,neutral
+I feel regular this morning.,neutral
+I feel regular last night.,neutral
+I feel regular recently.,neutral
+My friend feel normal today.,neutral
+My friend feel normal yesterday.,neutral
+My friend feel normal this morning.,neutral
+My friend feel normal last night.,neutral
+My friend feel normal recently.,neutral
+My friend am okay today.,neutral
+My friend am okay yesterday.,neutral
+My friend am okay this morning.,neutral
+My friend am okay last night.,neutral
+My friend am okay recently.,neutral
+My friend feel fine today.,neutral
+My friend feel fine yesterday.,neutral
+My friend feel fine this morning.,neutral
+My friend feel fine last night.,neutral
+My friend feel fine recently.,neutral
+My friend am just working today.,neutral
+My friend am just working yesterday.,neutral
+My friend am just working this morning.,neutral
+My friend am just working last night.,neutral
+My friend am just working recently.,neutral
+My friend feel regular today.,neutral
+My friend feel regular yesterday.,neutral
+My friend feel regular this morning.,neutral
+My friend feel regular last night.,neutral
+My friend feel regular recently.,neutral
+My brother feel normal today.,neutral
+My brother feel normal yesterday.,neutral
+My brother feel normal this morning.,neutral
+My brother feel normal last night.,neutral
+My brother feel normal recently.,neutral
+My brother am okay today.,neutral
+My brother am okay yesterday.,neutral
+My brother am okay this morning.,neutral
+My brother am okay last night.,neutral
+My brother am okay recently.,neutral
+My brother feel fine today.,neutral
+My brother feel fine yesterday.,neutral
+My brother feel fine this morning.,neutral
+My brother feel fine last night.,neutral
+My brother feel fine recently.,neutral
+My brother am just working today.,neutral
+My brother am just working yesterday.,neutral
+My brother am just working this morning.,neutral
+My brother am just working last night.,neutral
+My brother am just working recently.,neutral
+My brother feel regular today.,neutral
+My brother feel regular yesterday.,neutral
+My brother feel regular this morning.,neutral
+My brother feel regular last night.,neutral
+My brother feel regular recently.,neutral
+My sister feel normal today.,neutral
+My sister feel normal yesterday.,neutral
+My sister feel normal this morning.,neutral
+My sister feel normal last night.,neutral
+My sister feel normal recently.,neutral
+My sister am okay today.,neutral
+My sister am okay yesterday.,neutral
+My sister am okay this morning.,neutral
+My sister am okay last night.,neutral
+My sister am okay recently.,neutral
+My sister feel fine today.,neutral
+My sister feel fine yesterday.,neutral
+My sister feel fine this morning.,neutral
+My sister feel fine last night.,neutral
+My sister feel fine recently.,neutral
+My sister am just working today.,neutral
+My sister am just working yesterday.,neutral
+My sister am just working this morning.,neutral
+My sister am just working last night.,neutral
+My sister am just working recently.,neutral
+My sister feel regular today.,neutral
+My sister feel regular yesterday.,neutral
+My sister feel regular this morning.,neutral
+My sister feel regular last night.,neutral
+My sister feel regular recently.,neutral
+We feel normal today.,neutral
+We feel normal yesterday.,neutral
+We feel normal this morning.,neutral
+We feel normal last night.,neutral
+We feel normal recently.,neutral
+We am okay today.,neutral
+We am okay yesterday.,neutral
+We am okay this morning.,neutral
+We am okay last night.,neutral
+We am okay recently.,neutral
+We feel fine today.,neutral
+We feel fine yesterday.,neutral
+We feel fine this morning.,neutral
+We feel fine last night.,neutral
+We feel fine recently.,neutral
+We am just working today.,neutral
+We am just working yesterday.,neutral
+We am just working this morning.,neutral
+We am just working last night.,neutral
+We am just working recently.,neutral
+We feel regular today.,neutral
+We feel regular yesterday.,neutral
+We feel regular this morning.,neutral
+We feel regular last night.,neutral
+We feel regular recently.,neutral
+They feel normal today.,neutral
+They feel normal yesterday.,neutral
+They feel normal this morning.,neutral
+They feel normal last night.,neutral
+They feel normal recently.,neutral
+They am okay today.,neutral
+They am okay yesterday.,neutral
+They am okay this morning.,neutral
+They am okay last night.,neutral
+They am okay recently.,neutral
+They feel fine today.,neutral
+They feel fine yesterday.,neutral
+They feel fine this morning.,neutral
+They feel fine last night.,neutral
+They feel fine recently.,neutral
+They am just working today.,neutral
+They am just working yesterday.,neutral
+They am just working this morning.,neutral
+They am just working last night.,neutral
+They am just working recently.,neutral
+They feel regular today.,neutral
+They feel regular yesterday.,neutral
+They feel regular this morning.,neutral
+They feel regular last night.,neutral
+They feel regular recently.,neutral

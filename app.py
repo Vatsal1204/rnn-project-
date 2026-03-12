@@ -195,7 +195,7 @@ def load_or_train_model():
     from sklearn.model_selection import train_test_split
 
     # Load dataset
-    df = pd.read_csv("/mnt/user-data/uploads/emotion_dataset.csv")
+    df = pd.read_csv("emotion_dataset.csv")
     df.columns = df.columns.str.strip()
     df = df.dropna()
 
@@ -764,7 +764,7 @@ with tab4:
 
         # Dataset stats
         st.markdown("<br>#### 📁 Dataset")
-        df_data = pd.read_csv("/mnt/user-data/uploads/emotion_dataset.csv")
+        df_data = pd.read_csv("emotion_dataset.csv")
         ec = df_data["emotion"].value_counts()
         fig_ec = go.Figure(go.Bar(
             x=[EMOTIONS[e]["emoji"]+" "+e.capitalize() for e in ec.index],

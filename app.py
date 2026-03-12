@@ -631,10 +631,10 @@ with tab3:
         fig_line.update_layout(
             plot_bgcolor="#0d1117", paper_bgcolor="#111827",
             font=dict(family="Syne", color="#94a3b8"),
-            xaxis=dict(title="Analysis #", gridcolor="#1f2937", zeroline=False),
-            yaxis=dict(title="Confidence %", range=[0, 105], gridcolor="#1f2937"),
+            xaxis=dict(title_text="Analysis #", gridcolor="#1f2937", zeroline=False),
+            yaxis=dict(title_text="Confidence %", range=[0, 105], gridcolor="#1f2937"),
             margin=dict(l=10, r=10, t=30, b=10), height=260,
-            title=dict(text="Confidence Timeline", font=dict(size=14)),
+            title_text="Confidence Timeline",
         )
         st.plotly_chart(fig_line, use_container_width=True, config={"displayModeBar": False})
 
@@ -653,7 +653,7 @@ with tab3:
             font=dict(family="Syne", color="#94a3b8"),
             xaxis=dict(showgrid=False), yaxis=dict(showgrid=False, showticklabels=False),
             margin=dict(l=10, r=10, t=30, b=10), height=250,
-            title=dict(text="Session Emotion Frequency", font=dict(size=14)),
+            title_text="Session Emotion Frequency",
         )
         st.plotly_chart(fig_bar, use_container_width=True, config={"displayModeBar": False})
 
@@ -694,9 +694,9 @@ with tab4:
         fig_acc.update_layout(
             plot_bgcolor="#0d1117", paper_bgcolor="#111827",
             font=dict(family="Syne", color="#94a3b8"),
-            xaxis=dict(title="Epoch", gridcolor="#1f2937"),
-            yaxis=dict(title="Accuracy", gridcolor="#1f2937", range=[0, 1.05]),
-            legend=dict(bgcolor="transparent"),
+            xaxis=dict(title_text="Epoch", gridcolor="#1f2937"),
+            yaxis=dict(title_text="Accuracy", gridcolor="#1f2937", range=[0, 1.05]),
+            legend=dict(bgcolor="rgba(0,0,0,0)"),
             margin=dict(l=10, r=10, t=10, b=10), height=250,
         )
         st.plotly_chart(fig_acc, use_container_width=True, config={"displayModeBar": False})
@@ -713,9 +713,9 @@ with tab4:
         fig_loss.update_layout(
             plot_bgcolor="#0d1117", paper_bgcolor="#111827",
             font=dict(family="Syne", color="#94a3b8"),
-            xaxis=dict(title="Epoch", gridcolor="#1f2937"),
-            yaxis=dict(title="Loss", gridcolor="#1f2937"),
-            legend=dict(bgcolor="transparent"),
+            xaxis=dict(title_text="Epoch", gridcolor="#1f2937"),
+            yaxis=dict(title_text="Loss", gridcolor="#1f2937"),
+            legend=dict(bgcolor="rgba(0,0,0,0)"),
             margin=dict(l=10, r=10, t=10, b=10), height=220,
         )
         st.plotly_chart(fig_loss, use_container_width=True, config={"displayModeBar": False})
